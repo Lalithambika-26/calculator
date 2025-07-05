@@ -1,0 +1,5 @@
+django
+calculator
+numpy
+scrikit-learn
+gunicorn
